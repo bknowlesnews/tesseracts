@@ -4,6 +4,7 @@
   "description": "Monorepo management tool",
   "main": "index.js",
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
     "test": "lerna run test",
     "publish": "lerna run publish"
