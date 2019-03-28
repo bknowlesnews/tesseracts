@@ -4,8 +4,9 @@
   "description": "Monorepo management tool",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Building...\"",
-    "test": "echo \"running tests...\""
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "publish": "lerna run publish"
   },
   "repository": {
     "type": "git",
