@@ -1,4 +1,5 @@
 # Tesseracts 
+[![CircleCI](https://circleci.com/gh/bknowlesnews/tesseracts/tree/master.svg?style=svg)](https://circleci.com/gh/bknowlesnews/tesseracts/tree/master)
 
 **Tesseracts is a tool for managing well defined package archetypes within a monorepo.**
 
