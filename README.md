@@ -1,5 +1,7 @@
 # Tesseracts 
-[![CircleCI](https://circleci.com/gh/bknowlesnews/tesseracts/tree/master.svg?style=svg)](https://circleci.com/gh/bknowlesnews/tesseracts/tree/master)
+[![CircleCI](https://img.shields.io/circleci/project/github/bknowlesnews/tesseracts.svg)](https://circleci.com/gh/bknowlesnews/tesseracts/tree/master)
+[![NPM](https://img.shields.io/npm/v/tesseracts.svg)](https://www.npmjs.com/package/tesseracts)
+[![License](https://img.shields.io/github/license/bknowlesnews/tesseracts.svg)]()
 
 **Tesseracts is a tool for managing well defined package archetypes within a monorepo.**
 
