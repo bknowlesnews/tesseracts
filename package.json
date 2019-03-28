@@ -12,12 +12,16 @@
     "url": "git+https://github.com/bknowlesnews/tesseracts.git"
   },
   "keywords": [
-    "monorepo", "tooling"
+    "monorepo",
+    "tooling"
   ],
   "author": "Ben Knowles",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bknowlesnews/tesseracts/issues"
   },
-  "homepage": "https://github.com/bknowlesnews/tesseracts#readme"
+  "homepage": "https://github.com/bknowlesnews/tesseracts#readme",
+  "devDependencies": {
+    "lerna": "^3.10.5"
+  }
 }
