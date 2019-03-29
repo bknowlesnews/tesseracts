@@ -4,9 +4,6 @@
   "description": "",
   "scripts": {
   },
-  "repository": {
-    "type": "git",
-  },
   "author": "Ben Knowles",
   "license": "MIT"
 }
