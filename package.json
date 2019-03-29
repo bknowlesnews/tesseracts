@@ -7,7 +7,7 @@
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
     "test": "lerna run test",
-    "publish": "lerna run publish"
+    "publish": "lerna publish"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/bknowlesnews/tesseracts#readme",
   "devDependencies": {
-    "lerna": "^3.10.5"
+    "lerna": "^3.13.1"
   }
 }
